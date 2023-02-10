@@ -1,6 +1,6 @@
 #include "include/cian.h"
 #include "include/lexer.h"
-#include "token.h"
+#include "include/token.h"
 
 void cian_compile(char* src)
 {
